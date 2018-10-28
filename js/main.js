@@ -1,51 +1,51 @@
 var zodiac = [
 	{
 		sign: "aquarius",
-		image: "img/aquarius.jpg"
+		image: "https://i.imgur.com/KiTdhOQ.jpg"
 	},
 	{
 		sign: "aries",
-		image: "img/aries.jpg"
+		image: "https://i.imgur.com/wCqWZJX.jpg"
 	},
 	{
 		sign: "cancer",
-		image: "img/cancer.jpg"
+		image: "https://i.imgur.com/ls4p05x.jpg"
 	},
 	{
 		sign: "capricorn",
-		image: "img/capricorn.jpg"
+		image: "https://i.imgur.com/7vqq0nQ.jpg"
 	},
 	{
 		sign: "gemini",
-		image: "img/gemini.jpg"
+		image: "https://i.imgur.com/CdF9iVZ.jpg"
 	},
 	{
 		sign: "leo",
-		image: "img/leo.jpg"
+		image: "https://i.imgur.com/1PPiw1C.jpg"
 	},
 	{
 		sign: "libra",
-		image: "img/libra.jpg"
+		image: "https://i.imgur.com/K2X9RuT.jpg"
 	},
 	{
 		sign: "pisces",
-		image: "img/pisces.jpg"
+		image: "https://i.imgur.com/Por1t3z.jpg"
 	},
 	{
 		sign: "sagittarius",
-		image: "img/sagittarius.jpg"
+		image: "https://i.imgur.com/fkh9u71.jpg"
 	},
 	{
 		sign: "scorpio",
-		image: "img/scorpio.jpg"
+		image: "https://i.imgur.com/lFc4BSA.jpg"
 	},
 	{
 		sign: "taurus",
-		image: "img/taurus.jpg"
+		image: "https://i.imgur.com/Q05f9UB.jpg"
 	},
 	{
 		sign: "virgo",
-		image: "img/virgo.jpg"
+		image: "https://i.imgur.com/plz0gVp.jpg"
 	}
 	
 ];
